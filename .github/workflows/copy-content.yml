@@ -1,6 +1,6 @@
 # This workflow copy content modified in the main branch to production branch.
 
-name: CopyContentAbout-Aspose-App-Folder
+name: CopyAbout-Aspose-App-Content
 
 # Controls when the action will run. 
 on:
